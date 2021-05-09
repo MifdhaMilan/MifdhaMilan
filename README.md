@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MifdhaMilan&show_icons=true" alt="MifdhaMilan" /></p>
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank">
- <a href="https://spring.io/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" alt="html5" width="80" height="40"/> </a>
+ <a href="https://spring.io/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
