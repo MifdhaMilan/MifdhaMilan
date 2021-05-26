@@ -9,7 +9,7 @@
 <h3 align="left">🔍 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mifdha-milan-7403a5185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mifdha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mifdha.milan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mifdha"  edirisinghe" height="30" width="40" /></a>
-<a href="https://medium.com/@mifmilan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Mifdha"  height="30" width="40" /></a>
+<a href="https://mifdhamilan.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Mifdha"  height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mifmilan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mifdha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14620270/mifdha-milan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Mifdha" height="30" width="40" /></a>
 </p>
