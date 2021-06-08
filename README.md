@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there, I am MIFDHA MILAN 👋
+### I'm an Undergraduate, Developer, and a Tech Enthusiast!
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning React native
+- 🔭 I’m currently working as a Contributor
+- 🌱 I’m currently learning everything 
 - 💬 Ask me about Anything
 - 📫 How to reach me: mifmilan@gmail.com
 
