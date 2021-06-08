@@ -28,8 +28,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" height="75px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg"></code>
-  <br />
+  <code><img width="15%" src="https://www.digics.si/wp-content/uploads/2020/09/spring_boot_logo.png"></code>
+  <br/>
   <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -39,7 +39,11 @@
    <br />
   <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.craftedforeveryone.com/wp-content/uploads/2019/01/sqlserver_0.jpeg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br/>
+  <code><img width="15%" src="https://venturebeat.com/wp-content/uploads/2015/06/visual_studio_purple.png?fit=1308%2C650&strip=all"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   
 </p>
